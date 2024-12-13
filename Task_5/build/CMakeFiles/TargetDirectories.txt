@@ -1,0 +1,3 @@
+/home/esipov-pavel/Documents/453502/ОАиП/LR7/Task_5/build/CMakeFiles/Task_5.dir
+/home/esipov-pavel/Documents/453502/ОАиП/LR7/Task_5/build/CMakeFiles/edit_cache.dir
+/home/esipov-pavel/Documents/453502/ОАиП/LR7/Task_5/build/CMakeFiles/rebuild_cache.dir

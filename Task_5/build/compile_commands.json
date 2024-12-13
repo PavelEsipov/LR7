@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/esipov-pavel/Documents/453502/ОАиП/LR7/Task_5/build",
+  "command": "/usr/bin/c++  -I/home/esipov-pavel/Documents/453502/ОАиП/LR7/Task_5/include -fsanitize=address -g -std=gnu++17 -o CMakeFiles/Task_5.dir/Task_5.cpp.o -c /home/esipov-pavel/Documents/453502/ОАиП/LR7/Task_5/Task_5.cpp",
+  "file": "/home/esipov-pavel/Documents/453502/ОАиП/LR7/Task_5/Task_5.cpp",
+  "output": "CMakeFiles/Task_5.dir/Task_5.cpp.o"
+},
+{
+  "directory": "/home/esipov-pavel/Documents/453502/ОАиП/LR7/Task_5/build",
+  "command": "/usr/bin/c++  -I/home/esipov-pavel/Documents/453502/ОАиП/LR7/Task_5/include -fsanitize=address -g -std=gnu++17 -o CMakeFiles/Task_5.dir/funcs.cpp.o -c /home/esipov-pavel/Documents/453502/ОАиП/LR7/Task_5/funcs.cpp",
+  "file": "/home/esipov-pavel/Documents/453502/ОАиП/LR7/Task_5/funcs.cpp",
+  "output": "CMakeFiles/Task_5.dir/funcs.cpp.o"
+}
+]
