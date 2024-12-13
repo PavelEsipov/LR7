@@ -1,0 +1,1 @@
+/usr/bin/c++  -fsanitize=leak -fsanitize=address -fsanitize=undefined -g  -fsanitize=address CMakeFiles/Task_.dir/Task_2.cpp.o CMakeFiles/Task_.dir/vhod.cpp.o -o Task_ 
