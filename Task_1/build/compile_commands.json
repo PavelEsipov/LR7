@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/esipov-pavel/Documents/453502/ОАиП/LR7/Task_1/build",
+  "command": "/usr/bin/c++    -fsanitize=leak -fsanitize=address -fsanitize=undefined -g -std=gnu++11 -o CMakeFiles/Task_1.dir/Task_1.cpp.o -c /home/esipov-pavel/Documents/453502/ОАиП/LR7/Task_1/Task_1.cpp",
+  "file": "/home/esipov-pavel/Documents/453502/ОАиП/LR7/Task_1/Task_1.cpp",
+  "output": "CMakeFiles/Task_1.dir/Task_1.cpp.o"
+},
+{
+  "directory": "/home/esipov-pavel/Documents/453502/ОАиП/LR7/Task_1/build",
+  "command": "/usr/bin/c++    -fsanitize=leak -fsanitize=address -fsanitize=undefined -g -std=gnu++11 -o CMakeFiles/Task_1.dir/perevod.cpp.o -c /home/esipov-pavel/Documents/453502/ОАиП/LR7/Task_1/perevod.cpp",
+  "file": "/home/esipov-pavel/Documents/453502/ОАиП/LR7/Task_1/perevod.cpp",
+  "output": "CMakeFiles/Task_1.dir/perevod.cpp.o"
+}
+]
