@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/esipov-pavel/Documents/453502/ОАиП/LR7/Task_3/build",
+  "command": "/usr/bin/c++    -fsanitize=leak -fsanitize=address -fsanitize=undefined -g -std=gnu++11 -o CMakeFiles/Task_3.dir/Task_3.cpp.o -c /home/esipov-pavel/Documents/453502/ОАиП/LR7/Task_3/Task_3.cpp",
+  "file": "/home/esipov-pavel/Documents/453502/ОАиП/LR7/Task_3/Task_3.cpp",
+  "output": "CMakeFiles/Task_3.dir/Task_3.cpp.o"
+},
+{
+  "directory": "/home/esipov-pavel/Documents/453502/ОАиП/LR7/Task_3/build",
+  "command": "/usr/bin/c++    -fsanitize=leak -fsanitize=address -fsanitize=undefined -g -std=gnu++11 -o CMakeFiles/Task_3.dir/funcs.cpp.o -c /home/esipov-pavel/Documents/453502/ОАиП/LR7/Task_3/funcs.cpp",
+  "file": "/home/esipov-pavel/Documents/453502/ОАиП/LR7/Task_3/funcs.cpp",
+  "output": "CMakeFiles/Task_3.dir/funcs.cpp.o"
+},
+{
+  "directory": "/home/esipov-pavel/Documents/453502/ОАиП/LR7/Task_3/build",
+  "command": "/usr/bin/c++    -fsanitize=leak -fsanitize=address -fsanitize=undefined -g -std=gnu++11 -o CMakeFiles/Task_3.dir/input.cpp.o -c /home/esipov-pavel/Documents/453502/ОАиП/LR7/Task_3/input.cpp",
+  "file": "/home/esipov-pavel/Documents/453502/ОАиП/LR7/Task_3/input.cpp",
+  "output": "CMakeFiles/Task_3.dir/input.cpp.o"
+}
+]
